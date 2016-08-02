@@ -1,2 +1,1 @@
-# google-homepege
-test
+#google-homepege from the http://theodinproject.com
